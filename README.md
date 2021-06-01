@@ -53,6 +53,6 @@ The project has 3 main controllers:
   }
   
 - **/api/books/report - **GET** to generate a report for the books
-- **/api/bookFamilies/report - **GET** to generate a report for the book families
+- **/api/book-families/report - **GET** to generate a report for the book families
 
 - **/api/ftp/{fileName} - **POSt** to export the report fileName informed to the FTP configured on the application.properties file
